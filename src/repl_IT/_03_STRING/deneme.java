@@ -1,0 +1,1 @@
+package repl_IT._03_STRING;public class deneme {    public static void main(String[] args) {        String education = "high school";        education =  education.replace(" ","");        System.out.println("education = " + education);    }}
